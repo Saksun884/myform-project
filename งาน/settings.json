@@ -1,0 +1,5 @@
+{
+    "editor.minimap.renderCharacters": false,
+    "workbench.colorTheme": "Aura Soft Dark (Soft Text)",
+    "php.debug.executablePath": ""
+}
